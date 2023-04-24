@@ -1,7 +1,10 @@
 ![New Project (59)](https://user-images.githubusercontent.com/123327228/233938165-1408b644-5311-443a-941e-a93475ff67ff.png)
 
 # DrxkHub
-Welcome to the DrxkHub repository, we are a roblox hub made for improvements & cheats for games.
+Welcome to the DrxkHub repository, we are a roblox hub made for improvements & cheats for games, We have tons of features for you to try. Including impleting our own and community features. Hope you enjoy our hub!
+
+### Script
+> loadstring(game:HttpGet("https://raw.githubusercontent.com/CreepyPSC/dxrkhub/main/doors-scripts/hub-source"))()
 
 # NOTES
 - We do not endorse using exploits purely to destory others entertainment, Please use our hub with respect and responsibility.
