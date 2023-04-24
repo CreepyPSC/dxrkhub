@@ -4,7 +4,6 @@
 Welcome to the DrxkHub repository, we are a roblox hub made for improvements & cheats for games.
 
 # NOTES
-> Please note the following below:
 > We do not endorse using exploits purely to destory others entertainment, Please use our hub with respect and responsibility.
 > We are just a fun community project, nothing major or official
 > This community is ran by a very small group & all scripted by one user. (unless sourced from another location, which will be credited)
