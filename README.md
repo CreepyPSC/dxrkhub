@@ -3,8 +3,8 @@
 # DrxkHub
 Welcome to the DrxkHub repository, we are a roblox doors hub for cheats & mods, We have tons of features for you to try. Including impleting our own and community features. Hope you enjoy our hub!
 
-> [Join our community for updates & news.](https://discord.gg/BHQD5vvNxs)
-> [Subscribe to our YouTube for videos & livestreams.](https://www.youtube.com/@DxrkHub)
+- [Join our community for updates & news.](https://discord.gg/BHQD5vvNxs)
+- [Subscribe to our YouTube for videos & livestreams.](https://www.youtube.com/@DxrkHub)
 
 ### Script
 > loadstring(game:HttpGet("https://raw.githubusercontent.com/CreepyPSC/dxrkhub/main/doors-scripts/hub-source"))()
