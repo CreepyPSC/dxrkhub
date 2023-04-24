@@ -1,4 +1,4 @@
-![DxrkHub Logo](dxrkhub/assets/New Project (57).png)
+![DxrkHub Logo](assets/New Project (57).png)
 # DrxkHub
 Welcome to the DrxkHub repository, we are a roblox hub made for improvements & cheats for games.
 
