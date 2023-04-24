@@ -25,11 +25,11 @@ Welcome to the DrxkHub repository, we are a roblox hub made for improvements & c
 
 ### Main Contributions
  - [CreepyPSC](https://discord.gg/BHQD5vvNxs) (Founder, Fair amount of scripting & ideas)
- - POOPDOORS (Fair bit of source but not all, Have no idea who made this. btw not refering to MSDOORS, they were POOPDOORS Edited not the original)
+ - POOPDOORS (Source reference + a bit of stolen code sorry lol)
  
 ### Minor Contributions
  - [Deivid](https://www.youtube.com/channel/UCG7a_RfuHPdVY2RTu0MLBGw) (Items & Noclip)
- - Master Oogway#3595 (<--- discord user btw) (Items)
+ - Master Oogway#3595 (Items)
  - [PenguinManiack](https://www.youtube.com/channel/UCkvZR3N1zYUucGiQHShMIlg) (Items + Death Farmer)
  - [Luke3](https://www.youtube.com/channel/UCJOCutsyC8ze5DD2e7cP5sQ) (Items + Death Farmer)
  - [Zephyr](https://twitter.com/zephyr_RBLX) (Death Farmer)
