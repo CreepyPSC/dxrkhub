@@ -1,0 +1,3 @@
+local scriptVersion = 2.0;
+local scriptDiscord = "BHQD5vvNxs";
+return scriptVersion, scriptDiscord
